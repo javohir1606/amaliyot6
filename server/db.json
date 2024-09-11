@@ -1,0 +1,16 @@
+{
+  "discount_products": [
+    {
+      "id": 1,
+      "description": "Футболка с дизайнерским принтом Super Shape 04формулы",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "description": "Футболка с дизайнерским принтом Super Shape 04формулы",
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/palce_mic/main/discount_products/discount_2.png"
+    }
+  ],
+  "new_products": [],
+  "recomendet": []
+}
